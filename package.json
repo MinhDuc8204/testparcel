@@ -10,7 +10,7 @@
     "sass": "sass --watch styles.scss styles.css",
     "lint": "eslint ."
   },
-  "author": "",
+  "author": " ",
   "license": "ISC",
   "dependencies": {
     "eslint": "^8.56.0",
